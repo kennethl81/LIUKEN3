@@ -17,6 +17,8 @@ How to Use
 ===================================================
 Script should be run in a python compatible IDE or other runtime
 
+Another way to run the file is through LIUKEN3.exe in the dist\LIUKEN3 directory
+
 The script has been packaged with pyInstaller
 
 
